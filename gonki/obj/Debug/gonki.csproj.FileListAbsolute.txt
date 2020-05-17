@@ -1,0 +1,9 @@
+C:\Users\robot\source\repos\gonki\gonki\bin\Debug\gonki.exe.config
+C:\Users\robot\source\repos\gonki\gonki\bin\Debug\gonki.exe
+C:\Users\robot\source\repos\gonki\gonki\bin\Debug\gonki.pdb
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.csprojAssemblyReference.cache
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.Form1.resources
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.Properties.Resources.resources
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.csproj.GenerateResource.cache
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.exe
+C:\Users\robot\source\repos\gonki\gonki\obj\Debug\gonki.pdb
